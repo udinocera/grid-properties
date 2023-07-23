@@ -1,5 +1,6 @@
 body {
-  width: 60em;
+  width: 90em;
+  height: 45em;
   margin: 0 auto;
 }
 
@@ -37,4 +38,5 @@ li {
   padding: 1em;
   display: block;
   margin: 1em;
+ 
 }
